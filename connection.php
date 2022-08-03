@@ -1,6 +1,6 @@
 <?php
 
-$connect = mysqli_connect('localhost', 'root', '', 'konterdi_antree');
+$connect = mysqli_connect('localhost', 'konterdi_admindb', 'admindb_', 'konterdi_antree');
 
 if ($connect) {
     // echo "Berhasil";
