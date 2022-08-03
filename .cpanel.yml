@@ -25,3 +25,4 @@ deployment:
     - /bin/cp proses-edit.php $DEPLOYPATH
     - /bin/cp registrasi.php $DEPLOYPATH
     - /bin/cp upload-dokumentasi.php $DEPLOYPATH
+    - /bin/cp index.php $DEPLOYPATH
