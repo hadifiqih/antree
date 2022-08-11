@@ -112,11 +112,6 @@ if(isset($_POST['login'])){
                                 </div>
                             </form>
                         </div>
-                        <div class="card-footer py-3 border-0">
-                            <div class="text-center">
-                                Belum memiliki akun? <a href="registrasi.php" class="text-primary">Daftar</a>
-                            </div>
-                        </div>
                     </div>
                     <div class="text-center mt-5 text-muted">
                             Copyright &copy; 2022 &mdash; by Hadi Fiqih
